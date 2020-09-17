@@ -11,27 +11,7 @@
 
 }
 
-.footer-image{
-  width: 40px;
-  margin:0;
-  position: relative;
-  text-align: center;
-}
 
-.footer-text-lft{
-float:left;
-margin: 0 0.5rem 0 21rem;
-position: relative;
-font-family: 'Grand Hotel', cursive;
-
-}
-
-.footer-text-rght{
-float:right;
-margin:0 15rem 0 0.5rem;
-position: relative;
-font-family: 'Grand Hotel', cursive;
-}
 
 body {
   background-color: #464853;
