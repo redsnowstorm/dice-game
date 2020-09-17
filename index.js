@@ -13,7 +13,7 @@ function DiceRoll() {
     }
 
     if(randomNumber1<randomNumber2){
-        document.querySelector("h1").innerHTML = "Player 2 🚩"
+        document.querySelector("h1").innerHTML = "Player 2 wins! 🚩"
             }
 
     if(randomNumber1 === randomNumber2){
