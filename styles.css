@@ -1,0 +1,68 @@
+body {
+  background-color: #464853;
+  text-align: center;
+  margin-bottom:0;
+}
+
+/* Heading*/
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 7px 0 #232931;
+  font-size: 8rem;
+  color: #f66767;
+}
+
+.player-text {
+  font-size: 2rem;
+  color: #f5b8a4;
+  font-family: 'Indie Flower', cursive;
+}
+
+/* Dice */
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 0 3rem 3rem 3rem;
+
+}
+
+.img {
+  width: 90%;
+}
+
+
+
+/* Footer */
+.row{
+  display: inline-flex;
+  margin-top: 5%;
+  margin-bottom: 3%;
+
+}
+
+.footer-txt{
+  color: #f5c2a4;
+  font-family: 'Pacifico', cursive;
+  display: inline-flex;
+  font-size: 3rem;
+  margin:20px 10px 10px 5px;
+  text-shadow: 5px 5px 5px #232931
+}
+
+.footer-img{
+width:80px;
+height:80px;
+display: inline-flex;
+margin-top:10px;
+
+
+
+}
