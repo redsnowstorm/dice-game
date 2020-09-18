@@ -18,6 +18,7 @@ function DiceRoll() {
 
     if(randomNumber1 === randomNumber2){
     document.querySelector("h1").innerHTML = "Draw!<br>🤝"
+    document.querySelector("h1").style.lineHeight = "1";    
     }
 }
     
