@@ -7,6 +7,7 @@ body {
 /* Heading*/
 
 h1 {
+  height:300px;
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 7px 0 #232931;
