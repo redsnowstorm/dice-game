@@ -7,6 +7,7 @@ body {
 /* Heading*/
 
 h1 {
+  height:200px;
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 7px 0 #232931;
@@ -43,7 +44,7 @@ h1 {
 /* Footer */
 .row{
   display: inline-flex;
-  margin-top: 5%;
+  margin-top: 3%;
   margin-bottom: 3%;
 
 }
