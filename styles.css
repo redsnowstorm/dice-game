@@ -7,7 +7,6 @@ body {
 /* Heading*/
 
 h1 {
-  height:300px;
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 7px 0 #232931;
@@ -63,7 +62,11 @@ width:80px;
 height:80px;
 display: inline-flex;
 margin-top:10px;
+}
 
+@media (max-width: 1110px){
 
-
+h1{
+  height:300px;
+}
 }
